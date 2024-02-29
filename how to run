@@ -1,0 +1,9 @@
+run on ubuntu 
+
+
+How to run 
+
+1. Download ollama from website “ollama.ai”
+2. Download llm’s models :- 
+   Zephyr or llama2
+3. “Ollama run Zephyr “ this command download model locally
